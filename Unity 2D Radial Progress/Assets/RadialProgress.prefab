@@ -19,7 +19,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 224543147932620018}
-  - component: {fileID: 114014886703766278}
   - component: {fileID: 114687979431217232}
   m_Layer: 5
   m_Name: RadialProgress
@@ -96,19 +95,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &114014886703766278
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1295591211750672}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a32dc0bc042066449e7324cf9efcf6f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  fillImage: {fileID: 114685198762627680}
-  displayText: {fileID: 114989419612737696}
 --- !u!114 &114557479025858712
 MonoBehaviour:
   m_ObjectHideFlags: 1
